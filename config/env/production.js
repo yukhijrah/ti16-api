@@ -47,8 +47,9 @@ module.exports = {
     *                                                                          *
     ***************************************************************************/
     default: {
-      adapter: 'sails-mysql',
-      url: 'mysql://root:cobaja@35.247.178.96:3066/ti16api',
+      adapter: 'sails-mongo',
+      url: 'mongodb://isfa:isfahan1@ds237373.mlab.com:37373/ti16api'
+      // url: 'mysql://root:cobaja@35.247.178.96:3066/ti16api',
       //--------------------------------------------------------------------------
       //  /\   To avoid checking it in to version control, you might opt to set
       //  ||   sensitive credentials like `url` using an environment variable.
