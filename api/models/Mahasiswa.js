@@ -25,7 +25,7 @@ module.exports = {
     //  ╩ ╩╚═╝╚═╝╚═╝╚═╝╩╩ ╩ ╩ ╩╚═╝╝╚╝╚═╝
 
     id: {
-      type: 'integer',
+      type: 'number',
       autoIncrement: true,
    },
    name: {
