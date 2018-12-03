@@ -1,0 +1,35 @@
+INSERT INTO mahasiswa(name, nim) VALUES("Rizky Hidayat Panjaitan", "0110216028");
+INSERT INTO mahasiswa(name, nim) VALUES("Arfian Mulya Pasha", "0110216044");
+INSERT INTO mahasiswa(name, nim) VALUES("Haya Rasikhah", "0110216065");
+INSERT INTO mahasiswa(name, nim) VALUES("Vindi Pop Ardinoto", "0110216002");
+INSERT INTO mahasiswa(name, nim) VALUES("Kuati Septiani", "0110216011");
+INSERT INTO mahasiswa(name, nim) VALUES("Umair", "0110216061");
+INSERT INTO mahasiswa(name, nim) VALUES("Faiz Khoiron", "0110216056");
+INSERT INTO mahasiswa(name, nim) VALUES("Cartridge Ryan", "0110216036");
+INSERT INTO mahasiswa(name, nim) VALUES("Rizki Aji", "0110216024");
+INSERT INTO mahasiswa(name, nim) VALUES("Muhammad Alwi", "0110216018");
+INSERT INTO mahasiswa(name, nim) VALUES("Akhmad Arip", "0110216074");
+INSERT INTO mahasiswa(name, nim) VALUES("Muhammad Fadhil Hilmi", "0110216037");
+INSERT INTO mahasiswa(name, nim) VALUES("Satria Suryanegara", "0110216031");
+INSERT INTO mahasiswa(name, nim) VALUES("Isham Dienurrahman", "0110216048");
+INSERT INTO mahasiswa(name, nim) VALUES("Muhammad Rifki Chairil", "0110216058");
+INSERT INTO mahasiswa(name, nim) VALUES("Annisa Tahira", "0110216019");
+INSERT INTO mahasiswa(name, nim) VALUES("Arif Ariyanto", "0110216046");
+INSERT INTO mahasiswa(name, nim) VALUES("Rakha Diasry", "0110216075");
+INSERT INTO mahasiswa(name, nim) VALUES("Anifatul Aufah", "0110216010");
+INSERT INTO mahasiswa(name, nim) VALUES("Iqbal Ajie Wahyudin", "0110216057");
+INSERT INTO mahasiswa(name, nim) VALUES("Syifa Tazkiy Fauziah", "0110216070");
+INSERT INTO mahasiswa(name, nim) VALUES("Arius Wanimbo", "0");
+INSERT INTO mahasiswa(name, nim) VALUES("Sukmo Afri Ardi Saputro", "0110216060");
+INSERT INTO mahasiswa(name, nim) VALUES("Arisy Basyiruddin", "0110216068");
+INSERT INTO mahasiswa(name, nim) VALUES("Wahab", "0110216017");
+INSERT INTO mahasiswa(name, nim) VALUES("Fahmi Hafidzulhaq", "0110216003");
+INSERT INTO mahasiswa(name, nim) VALUES("Adittya Wicaksono", "0110216022");
+INSERT INTO mahasiswa(name, nim) VALUES("Uliin Nuha A", "0110214036");
+
+// "scripts": {
+//   "start": "NODE_ENV=production node app.js",
+//   "test": "npm run lint && npm run custom-tests && echo 'Done.'",
+//   "lint": "eslint . --max-warnings=0 --report-unused-disable-directives && echo '✔  Your .js files look good.'",
+//   "custom-tests": "echo \"(No other custom tests yet.)\" && echo"
+// },
