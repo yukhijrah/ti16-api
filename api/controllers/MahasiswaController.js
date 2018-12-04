@@ -15,6 +15,7 @@ module.exports = {
             });
         });
     },
+    
     bulk: function(req, res) {
         var students = [
             {name: 'Rizky Hidayat Panjaitan', nim: '0110216028'},
