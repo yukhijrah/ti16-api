@@ -16,7 +16,7 @@ module.exports = {
         });
     },
     bulk: function(req, res) {
-        var students = [{name: 'Rizky Hidayat Panjaitan', nim: '0110216028'},
+        Mahasiswa.create([{name: 'Rizky Hidayat Panjaitan', nim: '0110216028'},
         {name: 'Arfian Mulya Pasha', nim: '0110216044'},
         {name: 'Haya Rasikhah', nim: '0110216065'},
         {name: 'Vindi Pop Ardinoto', nim: '0110216002'},
@@ -43,9 +43,7 @@ module.exports = {
         {name: 'Wahab', nim: '0110216017'},
         {name: 'Fahmi Hafidzulhaq', nim: '0110216003'},
         {name: 'Adittya Wicaksono', nim: '0110216022'},
-        {name: 'Uliin Nuha A', nim: '0110214036'}];
-
-        Mahasiswa.create(students).exec(function (err, mahasiswa) {
+        {name: 'Uliin Nuha A', nim: '0110214036'}]).exec(function (err, mahasiswa) {
             return res.json({
                 message: "success",
                 data: mahasiswa
