@@ -31,10 +31,6 @@ module.exports.routes = {
     controller: 'MahasiswaController',
     action: 'mahasiswas'
   },
-  'GET /test/bulk': {
-    controller: 'MahasiswaController',
-    action: 'bulk'
-  }
 
   /***************************************************************************
   *                                                                          *
