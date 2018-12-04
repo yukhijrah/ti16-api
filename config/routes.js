@@ -31,7 +31,7 @@ module.exports.routes = {
     controller: 'MahasiswaController',
     action: 'mahasiswas'
   },
-  'POST /test/bulk': {
+  'GET /test/bulk': {
     controller: 'MahasiswaController',
     action: 'bulk'
   }
