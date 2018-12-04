@@ -17,7 +17,7 @@ module.exports = {
     },
     insertMahasiswa: function(req, res) {
         Mahasiswa.create(req.body).exec(function (err, mhs) {
-            return res.json(mhs);
+            return res.json({mhs});
         });
     }
 
