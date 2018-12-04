@@ -14,6 +14,11 @@ module.exports = {
                 data: mahasiswa
             });
         });
+    },
+    insertMahasiswa: function(req, res) {
+        Mahasiswa.create(req.body).exec(function (err, mhs) {
+            return res.json(mhs);
+        });
     }
 
     // bulk: function(req, res) {

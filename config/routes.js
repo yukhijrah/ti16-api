@@ -31,6 +31,10 @@ module.exports.routes = {
     controller: 'MahasiswaController',
     action: 'mahasiswas'
   },
+  'POST /insert_mahasiswa': {
+    controller: 'MahasiswaController',
+    action: 'insertMahasiswa'
+  },
 
   /***************************************************************************
   *                                                                          *
