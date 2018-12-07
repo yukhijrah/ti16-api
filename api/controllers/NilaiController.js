@@ -8,12 +8,24 @@
 module.exports = {
   
     cekNilai: function(req, res) {
-        Mahasiswa.find(function(err, mahasiswa) {
-            return res.json({
-                title: "Teknik Informatika",
-                year: 2016,
-                data: mahasiswa
-            });
+        var mhsNim = req.param('nim');
+        var mahasiswa = null;
+        Mahasiswa.find({nim: mhsNim}).exec(function (err, mhs) {
+            if (mhs.length > 0) {
+                var mhsId = mhs[0].id;
+                mahasiswa = mhs;
+                Nilai.find({mhs_id: mhsId}).exec(function(err, nilai) {
+                    res.json({
+                        status: 200,
+                        course: nilai,
+                        student: mahasiswa
+                    });
+                });
+            } else {
+                res.json({
+                    status: 404,
+                });
+            }
         });
     }
 
