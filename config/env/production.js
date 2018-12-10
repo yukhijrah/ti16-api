@@ -47,8 +47,8 @@ module.exports = {
     *                                                                          *
     ***************************************************************************/
     default: {
-      adapter: 'sails-mongo',
-      url: 'mongodb://isfa:isfahan1@ds237373.mlab.com:37373/ti16api'
+      adapter: 'sails-mysql',
+      url: 'mysql://root:cobaja@127.0.0.1:3066/ti16api'
       // url: 'mysql://root:cobaja@35.247.178.96:3066/ti16api',
       //--------------------------------------------------------------------------
       //  /\   To avoid checking it in to version control, you might opt to set
@@ -150,7 +150,7 @@ module.exports = {
     ***************************************************************************/
     cors: {
       allowOrigins: [
-        'https://ti16-api.herokuapp.com',
+        'http://35.186.145.167',
       ]
     },
 
@@ -337,7 +337,7 @@ module.exports = {
   * this, just try deploying without setting it and see if it works.)       *
   *                                                                         *
   ***************************************************************************/
-  port: 80,
+  port: 8080,
 
 
 
@@ -371,7 +371,7 @@ module.exports = {
   *                                                                         *
   ***************************************************************************/
   custom: {
-    baseUrl: 'https://ti16-api.herokuapp.com',
+    // baseUrl: 'https://ti16-api.herokuapp.com',
     internalEmailAddress: 'support@example.com',
 
     // mailgunDomain: 'mg.example.com',
