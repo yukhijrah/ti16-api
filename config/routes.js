@@ -38,7 +38,15 @@ module.exports.routes = {
   'GET /nilai/:nim': {
     controller: 'NilaiController',
     action: 'cekNilai'
-  }
+  },
+  'GET /list_mahasiswa': {
+    controller: 'MahasiswaTestController',
+    action: 'mahasiswas'
+  },
+  'POST /insert_mahasiswa': {
+    controller: 'MahasiswaTestController',
+    action: 'insertMahasiswa'
+  },
 
   /***************************************************************************
   *                                                                          *

@@ -26,3 +26,164 @@
 {name: 'Fahmi Hafidzulhaq', nim: '0110216003'},
 {name: 'Adittya Wicaksono', nim: '0110216022'},
 {name: 'Uliin Nuha A', nim: '0110214036'}]
+
+
+= nilai recyclerview
+INSERT INTO nilai(name,value,mhs_id) VALUES("Recyclerview with Adapter", 60, 1); // Rizky Hidayat Panjaitan
+INSERT INTO nilai(name,value,mhs_id) VALUES("Recyclerview with Adapter", 70, 2); // Arfian Mulya Pasha
+INSERT INTO nilai(name,value,mhs_id) VALUES("Recyclerview with Adapter", 60, 3); // Haya Rasikhah
+INSERT INTO nilai(name,value,mhs_id) VALUES("Recyclerview with Adapter", 50, 4); // Vindi Pop Ardinoto
+INSERT INTO nilai(name,value,mhs_id) VALUES("Recyclerview with Adapter", 100, 5); // Kuati Septiani
+INSERT INTO nilai(name,value,mhs_id) VALUES("Recyclerview with Adapter", 70, 6); // Umair
+INSERT INTO nilai(name,value,mhs_id) VALUES("Recyclerview with Adapter", 90, 7); // Faiz Khoiron
+INSERT INTO nilai(name,value,mhs_id) VALUES("Recyclerview with Adapter", 60, 8); // Cartridge Ryan
+INSERT INTO nilai(name,value,mhs_id) VALUES("Recyclerview with Adapter", 80, 9); // Rizki Aji
+INSERT INTO nilai(name,value,mhs_id) VALUES("Recyclerview with Adapter", 75, 10); // Muhammad Alwi
+INSERT INTO nilai(name,value,mhs_id) VALUES("Recyclerview with Adapter", 75, 11); // Akhmad Arip
+INSERT INTO nilai(name,value,mhs_id) VALUES("Recyclerview with Adapter", 0, 12); // Muhammad Fadhil Hilmi
+INSERT INTO nilai(name,value,mhs_id) VALUES("Recyclerview with Adapter", 0, 13); // Satria Suryanegara
+INSERT INTO nilai(name,value,mhs_id) VALUES("Recyclerview with Adapter", 75, 14); // Isham Dienurrahman
+INSERT INTO nilai(name,value,mhs_id) VALUES("Recyclerview with Adapter", 70, 15); // Muhammad Rifki Chairil
+INSERT INTO nilai(name,value,mhs_id) VALUES("Recyclerview with Adapter", 90, 16); // Annisa Tahira
+INSERT INTO nilai(name,value,mhs_id) VALUES("Recyclerview with Adapter", 70, 17); // Arif Ariyanto
+INSERT INTO nilai(name,value,mhs_id) VALUES("Recyclerview with Adapter", 60, 18); // Rakha Diasry
+INSERT INTO nilai(name,value,mhs_id) VALUES("Recyclerview with Adapter", 90, 19); // Anifatul Aufah
+INSERT INTO nilai(name,value,mhs_id) VALUES("Recyclerview with Adapter", 85, 20); // Iqbal Ajie Wahyudin
+INSERT INTO nilai(name,value,mhs_id) VALUES("Recyclerview with Adapter", 100, 21); // Syifa Tazkiy Fauziah
+INSERT INTO nilai(name,value,mhs_id) VALUES("Recyclerview with Adapter", 0, 22); // Arius Wanimbo
+INSERT INTO nilai(name,value,mhs_id) VALUES("Recyclerview with Adapter", 0, 23); // Afri Ardi Saputro
+INSERT INTO nilai(name,value,mhs_id) VALUES("Recyclerview with Adapter", 70, 24); // Arisy Basyiruddin
+INSERT INTO nilai(name,value,mhs_id) VALUES("Recyclerview with Adapter", 0, 25); // Wahab
+INSERT INTO nilai(name,value,mhs_id) VALUES("Recyclerview with Adapter", 0, 26); // Fahmi Hafidzulhaq
+INSERT INTO nilai(name,value,mhs_id) VALUES("Recyclerview with Adapter", 0, 27); // Adittya Wicaksono
+INSERT INTO nilai(name,value,mhs_id) VALUES("Recyclerview with Adapter", 0, 28); // Uliin Nuha A
+INSERT INTO nilai(name,value,mhs_id) VALUES("Recyclerview with Adapter", 85, 31); // Muhammad Rifki Chairil
+INSERT INTO nilai(name,value,mhs_id) VALUES("Recyclerview with Adapter", 70, 30); // Mohammad Akmaluddin Novianto
+
+= slicing mockup to xml code
+INSERT INTO nilai(name,value,mhs_id) VALUES("Slicing Mockup to XML Code", 0, 1); // Rizky Hidayat Panjaitan
+INSERT INTO nilai(name,value,mhs_id) VALUES("Slicing Mockup to XML Code", 100, 2); // Arfian Mulya Pasha
+INSERT INTO nilai(name,value,mhs_id) VALUES("Slicing Mockup to XML Code", 0, 3); // Haya Rasikhah
+INSERT INTO nilai(name,value,mhs_id) VALUES("Slicing Mockup to XML Code", 0, 4); // Vindi Pop Ardinoto
+INSERT INTO nilai(name,value,mhs_id) VALUES("Slicing Mockup to XML Code", 100, 5); // Kuati Septiani
+INSERT INTO nilai(name,value,mhs_id) VALUES("Slicing Mockup to XML Code", 0, 6); // Umair
+INSERT INTO nilai(name,value,mhs_id) VALUES("Slicing Mockup to XML Code", 0, 7); // Faiz Khoiron
+INSERT INTO nilai(name,value,mhs_id) VALUES("Slicing Mockup to XML Code", 0, 8); // Cartridge Ryan
+INSERT INTO nilai(name,value,mhs_id) VALUES("Slicing Mockup to XML Code", 0, 9); // Rizki Aji
+INSERT INTO nilai(name,value,mhs_id) VALUES("Slicing Mockup to XML Code", 100, 10); // Muhammad Alwi
+INSERT INTO nilai(name,value,mhs_id) VALUES("Slicing Mockup to XML Code", 100, 11); // Akhmad Arip
+INSERT INTO nilai(name,value,mhs_id) VALUES("Slicing Mockup to XML Code", 0, 12); // Muhammad Fadhil Hilmi
+INSERT INTO nilai(name,value,mhs_id) VALUES("Slicing Mockup to XML Code", 0, 13); // Satria Suryanegara
+INSERT INTO nilai(name,value,mhs_id) VALUES("Slicing Mockup to XML Code", 0, 14); // Isham Dienurrahman
+INSERT INTO nilai(name,value,mhs_id) VALUES("Slicing Mockup to XML Code", 0, 15); // Muhammad Rifki Chairil
+INSERT INTO nilai(name,value,mhs_id) VALUES("Slicing Mockup to XML Code", 0, 16); // Annisa Tahira
+INSERT INTO nilai(name,value,mhs_id) VALUES("Slicing Mockup to XML Code", 0, 17); // Arif Ariyanto
+INSERT INTO nilai(name,value,mhs_id) VALUES("Slicing Mockup to XML Code", 0, 18); // Rakha Diasry
+INSERT INTO nilai(name,value,mhs_id) VALUES("Slicing Mockup to XML Code", 0, 19); // Anifatul Aufah
+INSERT INTO nilai(name,value,mhs_id) VALUES("Slicing Mockup to XML Code", 0, 20); // Iqbal Ajie Wahyudin
+INSERT INTO nilai(name,value,mhs_id) VALUES("Slicing Mockup to XML Code", 100, 21); // Syifa Tazkiy Fauziah
+INSERT INTO nilai(name,value,mhs_id) VALUES("Slicing Mockup to XML Code", 0, 22); // Arius Wanimbo
+INSERT INTO nilai(name,value,mhs_id) VALUES("Slicing Mockup to XML Code", 0, 23); // Afri Ardi Saputro
+INSERT INTO nilai(name,value,mhs_id) VALUES("Slicing Mockup to XML Code", 100, 24); // Arisy Basyiruddin
+INSERT INTO nilai(name,value,mhs_id) VALUES("Slicing Mockup to XML Code", 0, 25); // Wahab
+INSERT INTO nilai(name,value,mhs_id) VALUES("Slicing Mockup to XML Code", 0, 26); // Fahmi Hafidzulhaq
+INSERT INTO nilai(name,value,mhs_id) VALUES("Slicing Mockup to XML Code", 0, 27); // Adittya Wicaksono
+INSERT INTO nilai(name,value,mhs_id) VALUES("Slicing Mockup to XML Code", 0, 28); // Uliin Nuha A
+INSERT INTO nilai(name,value,mhs_id) VALUES("Slicing Mockup to XML Code", 100, 31); // Muhammad Rifki Chairil
+INSERT INTO nilai(name,value,mhs_id) VALUES("Slicing Mockup to XML Code", 100, 30); // Mohammad Akmaluddin Novianto
+
+= Hadist App
+INSERT INTO nilai(name,value,mhs_id) VALUES("Hadist App", 100, 1); // Rizky Hidayat Panjaitan
+INSERT INTO nilai(name,value,mhs_id) VALUES("Hadist App", 100, 2); // Arfian Mulya Pasha
+INSERT INTO nilai(name,value,mhs_id) VALUES("Hadist App", 100, 3); // Haya Rasikhah
+INSERT INTO nilai(name,value,mhs_id) VALUES("Hadist App", 100, 4); // Vindi Pop Ardinoto
+INSERT INTO nilai(name,value,mhs_id) VALUES("Hadist App", 0, 5); // Kuati Septiani
+INSERT INTO nilai(name,value,mhs_id) VALUES("Hadist App", 100, 6); // Umair
+INSERT INTO nilai(name,value,mhs_id) VALUES("Hadist App", 100, 7); // Faiz Khoiron
+INSERT INTO nilai(name,value,mhs_id) VALUES("Hadist App", 100, 9); // Rizki Aji
+INSERT INTO nilai(name,value,mhs_id) VALUES("Hadist App", 0, 8); // Cartridge Ryan
+INSERT INTO nilai(name,value,mhs_id) VALUES("Hadist App", 100, 10); // Muhammad Alwi
+INSERT INTO nilai(name,value,mhs_id) VALUES("Hadist App", 100, 11); // Akhmad Arip
+INSERT INTO nilai(name,value,mhs_id) VALUES("Hadist App", 0, 12); // Muhammad Fadhil Hilmi
+INSERT INTO nilai(name,value,mhs_id) VALUES("Hadist App", 100, 13); // Satria Suryanegara
+INSERT INTO nilai(name,value,mhs_id) VALUES("Hadist App", 0, 14); // Isham Dienurrahman
+INSERT INTO nilai(name,value,mhs_id) VALUES("Hadist App", 0, 15); // Muhammad Rifki Chairil
+INSERT INTO nilai(name,value,mhs_id) VALUES("Hadist App", 100, 16); // Annisa Tahira
+INSERT INTO nilai(name,value,mhs_id) VALUES("Hadist App", 0, 17); // Arif Ariyanto
+INSERT INTO nilai(name,value,mhs_id) VALUES("Hadist App", 100, 18); // Rakha Diasry
+INSERT INTO nilai(name,value,mhs_id) VALUES("Hadist App", 100, 19); // Anifatul Aufah
+INSERT INTO nilai(name,value,mhs_id) VALUES("Hadist App", 100, 20); // Iqbal Ajie Wahyudin
+INSERT INTO nilai(name,value,mhs_id) VALUES("Hadist App", 0, 21); // Syifa Tazkiy Fauziah
+INSERT INTO nilai(name,value,mhs_id) VALUES("Hadist App", 0, 22); // Arius Wanimbo
+INSERT INTO nilai(name,value,mhs_id) VALUES("Hadist App", 100, 23); // Afri Ardi Saputro
+INSERT INTO nilai(name,value,mhs_id) VALUES("Hadist App", 0, 24); // Arisy Basyiruddin
+INSERT INTO nilai(name,value,mhs_id) VALUES("Hadist App", 100, 25); // Wahab
+INSERT INTO nilai(name,value,mhs_id) VALUES("Hadist App", 100, 26); // Fahmi Hafidzulhaq
+INSERT INTO nilai(name,value,mhs_id) VALUES("Hadist App", 100, 27); // Adittya Wicaksono
+INSERT INTO nilai(name,value,mhs_id) VALUES("Hadist App", 0, 28); // Uliin Nuha A
+INSERT INTO nilai(name,value,mhs_id) VALUES("Hadist App", 0, 31); // Muhammad Rifki Chairil
+INSERT INTO nilai(name,value,mhs_id) VALUES("Hadist App", 100, 30); // Mohammad Akmaluddin Novianto
+
+= Doa App with Fragment
+INSERT INTO nilai(name,value,mhs_id) VALUES("Doa App with Fragment", 0, 1); // Rizky Hidayat Panjaitan
+INSERT INTO nilai(name,value,mhs_id) VALUES("Doa App with Fragment", 0, 2); // Arfian Mulya Pasha
+INSERT INTO nilai(name,value,mhs_id) VALUES("Doa App with Fragment", 0, 3); // Haya Rasikhah
+INSERT INTO nilai(name,value,mhs_id) VALUES("Doa App with Fragment", 0, 4); // Vindi Pop Ardinoto
+INSERT INTO nilai(name,value,mhs_id) VALUES("Doa App with Fragment", 0, 5); // Kuati Septiani
+INSERT INTO nilai(name,value,mhs_id) VALUES("Doa App with Fragment", 90, 6); // Umair
+INSERT INTO nilai(name,value,mhs_id) VALUES("Doa App with Fragment", 0, 7); // Faiz Khoiron
+INSERT INTO nilai(name,value,mhs_id) VALUES("Doa App with Fragment", 0, 9); // Rizki Aji
+INSERT INTO nilai(name,value,mhs_id) VALUES("Doa App with Fragment", 0, 8); // Cartridge Ryan
+INSERT INTO nilai(name,value,mhs_id) VALUES("Doa App with Fragment", 90, 10); // Muhammad Alwi
+INSERT INTO nilai(name,value,mhs_id) VALUES("Doa App with Fragment", 0, 11); // Akhmad Arip
+INSERT INTO nilai(name,value,mhs_id) VALUES("Doa App with Fragment", 85, 12); // Muhammad Fadhil Hilmi
+INSERT INTO nilai(name,value,mhs_id) VALUES("Doa App with Fragment", 85, 13); // Satria Suryanegara
+INSERT INTO nilai(name,value,mhs_id) VALUES("Doa App with Fragment", 0, 14); // Isham Dienurrahman
+INSERT INTO nilai(name,value,mhs_id) VALUES("Doa App with Fragment", 95, 15); // Muhammad Rifki Chairil
+INSERT INTO nilai(name,value,mhs_id) VALUES("Doa App with Fragment", 95, 16); // Annisa Tahira
+INSERT INTO nilai(name,value,mhs_id) VALUES("Doa App with Fragment", 0, 17); // Arif Ariyanto
+INSERT INTO nilai(name,value,mhs_id) VALUES("Doa App with Fragment", 0, 18); // Rakha Diasry
+INSERT INTO nilai(name,value,mhs_id) VALUES("Doa App with Fragment", 90, 19); // Anifatul Aufah
+INSERT INTO nilai(name,value,mhs_id) VALUES("Doa App with Fragment", 0, 20); // Iqbal Ajie Wahyudin
+INSERT INTO nilai(name,value,mhs_id) VALUES("Doa App with Fragment", 90, 21); // Syifa Tazkiy Fauziah
+INSERT INTO nilai(name,value,mhs_id) VALUES("Doa App with Fragment", 0, 22); // Arius Wanimbo
+INSERT INTO nilai(name,value,mhs_id) VALUES("Doa App with Fragment", 85, 23); // Afri Ardi Saputro
+INSERT INTO nilai(name,value,mhs_id) VALUES("Doa App with Fragment", 0, 24); // Arisy Basyiruddin
+INSERT INTO nilai(name,value,mhs_id) VALUES("Doa App with Fragment", 0, 25); // Wahab
+INSERT INTO nilai(name,value,mhs_id) VALUES("Doa App with Fragment", 0, 26); // Fahmi Hafidzulhaq
+INSERT INTO nilai(name,value,mhs_id) VALUES("Doa App with Fragment", 0, 27); // Adittya Wicaksono
+INSERT INTO nilai(name,value,mhs_id) VALUES("Doa App with Fragment", 0, 28); // Uliin Nuha A
+INSERT INTO nilai(name,value,mhs_id) VALUES("Doa App with Fragment", 0, 31); // Muhammad Rifki Chairil
+INSERT INTO nilai(name,value,mhs_id) VALUES("Doa App with Fragment", 0, 30); // Mohammad Akmaluddin Novianto
+
+= Doa App with Fragment
+INSERT INTO nilai(name,value,mhs_id) VALUES("Network Request Using Retrofit", 0, 1); // Rizky Hidayat Panjaitan
+INSERT INTO nilai(name,value,mhs_id) VALUES("Network Request Using Retrofit", 0, 2); // Arfian Mulya Pasha
+INSERT INTO nilai(name,value,mhs_id) VALUES("Network Request Using Retrofit", 0, 3); // Haya Rasikhah
+INSERT INTO nilai(name,value,mhs_id) VALUES("Network Request Using Retrofit", 0, 4); // Vindi Pop Ardinoto
+INSERT INTO nilai(name,value,mhs_id) VALUES("Network Request Using Retrofit", 0, 5); // Kuati Septiani
+INSERT INTO nilai(name,value,mhs_id) VALUES("Network Request Using Retrofit", 85, 6); // Umair
+INSERT INTO nilai(name,value,mhs_id) VALUES("Network Request Using Retrofit", 60, 7); // Faiz Khoiron
+INSERT INTO nilai(name,value,mhs_id) VALUES("Network Request Using Retrofit", 0, 9); // Rizki Aji
+INSERT INTO nilai(name,value,mhs_id) VALUES("Network Request Using Retrofit", 0, 8); // Cartridge Ryan
+INSERT INTO nilai(name,value,mhs_id) VALUES("Network Request Using Retrofit", 0, 10); // Muhammad Alwi
+INSERT INTO nilai(name,value,mhs_id) VALUES("Network Request Using Retrofit", 0, 11); // Akhmad Arip
+INSERT INTO nilai(name,value,mhs_id) VALUES("Network Request Using Retrofit", 80, 12); // Muhammad Fadhil Hilmi
+INSERT INTO nilai(name,value,mhs_id) VALUES("Network Request Using Retrofit", 0, 13); // Satria Suryanegara
+INSERT INTO nilai(name,value,mhs_id) VALUES("Network Request Using Retrofit", 0, 14); // Isham Dienurrahman
+INSERT INTO nilai(name,value,mhs_id) VALUES("Network Request Using Retrofit", 85, 15); // Muhammad Rifki Chairil
+INSERT INTO nilai(name,value,mhs_id) VALUES("Network Request Using Retrofit", 80, 16); // Annisa Tahira
+INSERT INTO nilai(name,value,mhs_id) VALUES("Network Request Using Retrofit", 0, 17); // Arif Ariyanto
+INSERT INTO nilai(name,value,mhs_id) VALUES("Network Request Using Retrofit", 0, 18); // Rakha Diasry
+INSERT INTO nilai(name,value,mhs_id) VALUES("Network Request Using Retrofit", 80, 19); // Anifatul Aufah
+INSERT INTO nilai(name,value,mhs_id) VALUES("Network Request Using Retrofit", 0, 20); // Iqbal Ajie Wahyudin
+INSERT INTO nilai(name,value,mhs_id) VALUES("Network Request Using Retrofit", 70, 21); // Syifa Tazkiy Fauziah
+INSERT INTO nilai(name,value,mhs_id) VALUES("Network Request Using Retrofit", 0, 22); // Arius Wanimbo
+INSERT INTO nilai(name,value,mhs_id) VALUES("Network Request Using Retrofit", 75, 23); // Afri Ardi Saputro
+INSERT INTO nilai(name,value,mhs_id) VALUES("Network Request Using Retrofit", 0, 24); // Arisy Basyiruddin
+INSERT INTO nilai(name,value,mhs_id) VALUES("Network Request Using Retrofit", 0, 25); // Wahab
+INSERT INTO nilai(name,value,mhs_id) VALUES("Network Request Using Retrofit", 0, 26); // Fahmi Hafidzulhaq
+INSERT INTO nilai(name,value,mhs_id) VALUES("Network Request Using Retrofit", 0, 27); // Adittya Wicaksono
+INSERT INTO nilai(name,value,mhs_id) VALUES("Network Request Using Retrofit", 0, 28); // Uliin Nuha A
+INSERT INTO nilai(name,value,mhs_id) VALUES("Network Request Using Retrofit", 0, 31); // Muhammad Rifki Chairil
+INSERT INTO nilai(name,value,mhs_id) VALUES("Network Request Using Retrofit", 0, 30); // Mohammad Akmaluddin Novianto

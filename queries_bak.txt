@@ -26,10 +26,11 @@ INSERT INTO mahasiswa(name, nim) VALUES("Wahab", "0110216017");
 INSERT INTO mahasiswa(name, nim) VALUES("Fahmi Hafidzulhaq", "0110216003");
 INSERT INTO mahasiswa(name, nim) VALUES("Adittya Wicaksono", "0110216022");
 INSERT INTO mahasiswa(name, nim) VALUES("Uliin Nuha A", "0110214036");
+INSERT INTO mahasiswa(name, nim) VALUES("Muhammad Rifki Chairil", "0110216058");
+INSERT INTO mahasiswa(name, nim) VALUES("Mohammad Akmaluddin Novianto", "0110214035");
 
 
 insert into nilai(name,value,mhs_id) values('recyclerview', 90, 28);
-insert into nilai(name,value,mhs_id) values('recyclerview', 85, 1);
 
 // "scripts": {
 //   "start": "NODE_ENV=production node app.js",
