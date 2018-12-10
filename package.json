@@ -21,8 +21,9 @@
     "@sailshq/eslint": "^4.19.3"
   },
   "scripts": {
-    "start": "sails lift",
-    "debug": "node debug app.js"
+    "start": "node app.js",
+    "debug": "node debug app.js",
+    "deploy": "gcloud preview app deploy app.yaml --promote --project pdamdepok-1542480673589"
   },
   "main": "app.js",
   "repository": {
