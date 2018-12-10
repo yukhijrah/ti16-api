@@ -39,11 +39,11 @@ module.exports.routes = {
     controller: 'NilaiController',
     action: 'cekNilai'
   },
-  'GET /list_mahasiswa': {
+  'GET /dev/list_mahasiswa': {
     controller: 'MahasiswaTestController',
     action: 'mahasiswas'
   },
-  'POST /insert_mahasiswa': {
+  'POST /dev/insert_mahasiswa': {
     controller: 'MahasiswaTestController',
     action: 'insertMahasiswa'
   },
